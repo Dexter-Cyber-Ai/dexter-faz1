@@ -53,5 +53,18 @@ Build a hybrid network defense module that:
 
 ---
 
+## Project Status
+
+This project is currently under active development.
+
+Phase 1 focuses on building a working MVP with:
+- Infrastructure simulation
+- IDS integration
+- Initial ML pipeline
+
+Advanced features such as eBPF-based monitoring,
+self-learning models and automated response mechanisms
+are planned for future phases.
+
 ## Repository Structure
 
